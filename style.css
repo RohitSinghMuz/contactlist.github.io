@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(216, 216, 216);
+  padding: 30px auto;
+}
+h1 {
+  text-align: center;
+}
+
+#demo {
+  height: 10vh;
+  width: 100vw;
+  padding: 5px;
+  background-color: rgb(71, 72, 116);
+}
